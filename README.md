@@ -8,6 +8,7 @@
 
 📌 **Latest Projects:**  
 🔹🔹 [🎬 Movies World (Angular & TypeScript)](https://moviesworldangular.netlify.app/) 
+🔹🔹 [🎬Moovie Mania (React)](https://moviemaniareact.netlify.app/)
 
 💡 **About me:**  
 - 💻 Passionate about web development and writing clean, maintainable code.  
